@@ -1,0 +1,17 @@
+{
+  "name": "poc-email-sending",
+  "version": "1.0.0",
+  "description": "A POC email sending",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alden Derf",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "googleapis": "^128.0.0",
+    "nodemailer": "^6.9.7"
+  }
+}
